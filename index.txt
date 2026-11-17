@@ -1,0 +1,2 @@
+this the new folder that gonna to commit with git remote add origin
+ 
